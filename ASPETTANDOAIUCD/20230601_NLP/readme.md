@@ -1,6 +1,7 @@
 # Introduzione al Natural Language Processing
 **Rachele Sprugnoli**
-1 giugno 2023
+
+1 giugno 2023, ore 17.00
 
 [Slide workshop](https://docs.google.com/presentation/d/1HIQiJa6fJuOTWgOsrxKZtlWhFYPCWIZtLCr7IBpMLNk/edit?usp=sharing)
 
